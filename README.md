@@ -1,5 +1,5 @@
 # Python-Implementation-of-Checkers-
-I developed a Python implementation of the classic game "Checkers", with an emphasis on object-oriented design. 
+Developed a Python implementation of the classic game "Checkers", with an emphasis on object-oriented design. 
 The game board is an 8x8 grid of alternating red and black squares, and each player begins with 12 pieces on the black squares. 
 Players are prompted to enter their names and whether or not to play with mandatory jumps. 
 The game logic allows for diagonal movement of one square at a time, with mandatory jumps over opposing pieces when available. 
